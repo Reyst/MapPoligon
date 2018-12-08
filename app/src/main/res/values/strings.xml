@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Map Poligon</string>
+    <string name="start">Start</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="q_create_polygon">Do you want to create new polygon?</string>
+    <string name="create_report">Create report</string>
+    <string name="input_string">Input text report</string>
+    <string name="save_report">Save report</string>
+    <string name="description">Description:</string>
+    <string name="date">Date:</string>
+    <string name="photo">Photo:</string>
+    <string name="report_photo">Photo for the report</string>
+    <string name="q_create_report">Do you want to create report</string>
+</resources>
